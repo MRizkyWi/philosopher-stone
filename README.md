@@ -1,6 +1,10 @@
 list of problem: https://mica-wineberry-d80.notion.site/Code-Challenge-9f10e4d75199422082ea5e503f25067e
 
-Case 1: Unearthing's the Philosopher Stone
+# How to run
+if you already have go in your laptop, simply run this command depend on which problem you want to try
+> go run <filename.go>
+
+# Case 1: Unearthing's the Philosopher Stone
 
 for n = 1, the diagonal will be 1
 
